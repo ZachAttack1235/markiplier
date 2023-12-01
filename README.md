@@ -11,3 +11,6 @@ If you want to get help with my project, please email me! You defintiely know wh
 My classmate Logan and Ryan are people who assisted with this project. 
 ## About the License of this project. 
 The license that I will be using is the MIT License
+
+
+Hi this is Logan (lph53) and I am typing something in the README file
